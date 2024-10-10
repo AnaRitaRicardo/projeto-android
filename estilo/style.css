@@ -72,7 +72,7 @@ header > p{
 
 nav{
     background-color: var(--cor5);
-    padding: 15px;
+    padding: 10px;
     box-shadow: 2px 7px 10px rgba(0, 0, 0, 0.103);
     
 }
@@ -80,7 +80,7 @@ nav{
 nav > a{
     color: white;
     text-decoration: none;
-    padding: 5px;
+    padding: 10px;
     font-weight: bold;
     transition-duration: 0.5s;
 }
