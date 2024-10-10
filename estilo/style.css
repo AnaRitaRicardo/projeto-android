@@ -26,7 +26,7 @@
  /* o * serve para configuraçoes globais*/
 *{
     margin:0px;
-padding: 0px;
+    padding: 0px;
 }
 
 
@@ -144,9 +144,9 @@ main h2{
     text-indent: 8px;
 }
 
-img,{
+img {
     width: 100%;
-}
+    }
 
 
 div.video {
